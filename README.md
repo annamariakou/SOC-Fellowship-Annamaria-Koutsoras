@@ -47,3 +47,15 @@ Add a comment above your printed message that says `Ticket 1b`
 As you continue through the workshop, it's important to comment your code to track your work and write a plan.
 
 ### ✨ Ticket 2 - Food Shopping ✨
+
+Sunday has come around and you realised you forgot to go food shopping! Oh no 😮!
+
+### Ticket 2a
+
+As you have a weekly budget to work with, assign `100` pounds to a variable called `weekly_budget`.
+
+### Ticket 2b
+
+You've arrived to Tesco and as you add coffee and sugar to your basket, you realise you need to calculate how much remaining budget you have.
+
+Create two variables `item_one` and `item_two`. Assign **£3** to `item_one` and **£5** to `item_two`.
