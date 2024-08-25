@@ -1,4 +1,4 @@
-# Intro to Python
+# 🐍 Intro to Python
 
 Welcome to Python 101! Python is a programming language used across many fields like web development, data analysis and AI. Due to its simplicity and readibility it's a great language for you to begin your programming journey.
 
