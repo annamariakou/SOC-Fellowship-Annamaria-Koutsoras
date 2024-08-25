@@ -54,8 +54,20 @@ Sunday has come around and you realised you forgot to go food shopping! Oh no �
 
 As you have a weekly budget to work with, assign `100` pounds to a variable called `weekly_budget`.
 
+Print `weekly_budget` to your console.
+
 ### Ticket 2b
 
 You've arrived to Tesco and as you add coffee and sugar to your basket, you realise you need to calculate how much remaining budget you have.
 
 Create two variables `item_one` and `item_two`. Assign **£3** to `item_one` and **£5** to `item_two`.
+
+Print `item_one` and `item_two` to your console.
+
+### Ticket 2c
+
+Add `item_one` and `item_two` assigning them to the variable `total_spent`.
+
+Next, subtract the remaining `total_spent` from `weekly_budget` and assign it to a variable called `remaining_budget`.
+
+Print `remaining_budget` to your console.
