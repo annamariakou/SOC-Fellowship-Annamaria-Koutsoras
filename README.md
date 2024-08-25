@@ -7,5 +7,6 @@ Welcome to Python! Python is a programming language used across many fields like
 - Creat a plan and break down problems.
 - Python fundamentals
   - Variables & Types
+  - Operations
   - Python Lists
   - Functions
