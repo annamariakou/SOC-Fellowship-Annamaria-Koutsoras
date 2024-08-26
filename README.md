@@ -9,25 +9,30 @@ Welcome to Python 101! Python is a programming language used across many fields 
   - Variables & Types
   - Operations
   - Lists
-  - Conditions and If statements
+  - Conditions and if statements
   - Functions
 - Continued pair programming.
+- Test your work.
 
 ## 📖 Resources
 
 If you need a refresher on the fundamentals mentioned above, please review the resources below before beginning the workshop.
 
+- [Python Tutorial](https://www.w3schools.com/python/default.asp)
+- [Operators](https://www.geeksforgeeks.org/python-operators/)
+- [Lists](https://developers.google.com/edu/python/lists)
+- [Conditions and if statements](https://www.geeksforgeeks.org/conditional-statements-in-python/)
+- [Functions](https://youtu.be/zvzjaqMBEso?feature=shared)
+
 ## 🚨 Install
 
-Before you begin make sure you've installed python. Instructions can be found here.
+Before you begin make sure you've installed python on your machine. Instructions can be found [here](https://www.python.org/downloads/).
 
-You should also install the VS Code Python extension by Microsoft. You can find it in the marketplace here:
-
-https://marketplace.visualstudio.com/items?itemName=ms-python.python
+You must also install the VS Code Python extension by Microsoft. You can find it in the marketplace [here](https://marketplace.visualstudio.com/items?itemName=ms-python.python).
 
 ## 🎟️ Tickets
 
-Let's get started!
+Let's get coding!
 
 ### ✨ Ticket 1 - Getting Started ✨
 
@@ -113,3 +118,19 @@ To run the function you must:
 To see your updated shopping list:
 
 - Print `shopping_list`.
+
+## 🎯 Testing
+
+Once you've completed all the tasks, complete the following steps to test your work -
+
+In your terminal run:
+
+```bash
+  pip install pytest
+```
+
+Then to run the tests that have already been added to test_main.py run:
+
+```bash
+  pytest test_main.py
+```
