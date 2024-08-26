@@ -50,7 +50,7 @@ Now let's make sure your file is working correctly. Print `Welcome to Python 101
 
 Add a comment above your printed message that says `Ticket 1b`
 
-💡 As you continue through the workshop, it's important to comment your code to track your work and write a plan.
+💡 As you continue to work through the workshop, it's important to comment your code to track your work and write a plan.
 
 ### ✨ Ticket 2 - Food Shopping ✨
 
