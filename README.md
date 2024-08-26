@@ -1,6 +1,6 @@
 # 🐍 Intro to Python
 
-Welcome to Python 101! Python is a programming language used across many fields like web development, data analysis and AI. Due to its simplicity and readibility it's a great language for you to begin your programming journey.
+Welcome to Python 101! Python is a programming language used across many fields like web development, data analysis and AI. Due to its simplicity and readability it's a great language for you to begin your programming journey.
 
 ## 🚀 Objectives
 
@@ -77,7 +77,7 @@ Print `remaining_budget` to your console.
 
 ### Ticket 3a
 
-You realise you forgot your shopping list at home! In order to not forget anything, create a list called `shopping_list` with 5 new items, each one being a **string**.
+You realise you forgot your shopping list at home! In order to not forget anything, create a list called `shopping_list` with these 4 new items; **Apples, Grapes, Olive Oil, Soap** . Each item is a **string**.
 
 Print `shopping_list` to your console.
 
@@ -93,7 +93,9 @@ As the basket gets fuller we need to create a function to track what we've picke
 
 ### Ticket 4a
 
-Create a function called `checklist`. Give the function three parameters called `item` and `shopping_list`.
+Create a function called `checklist`. Give the function two parameters with the first one as `shopping_list` and the secone one as `item`.
+
+‼️ The parameter `shopping_list` is taken from the variable you declared in step 3a. Ensure that this global variable is still declared (do not delete or comment it out).
 
 ### Ticket 4b
 
