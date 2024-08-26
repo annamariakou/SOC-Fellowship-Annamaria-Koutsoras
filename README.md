@@ -9,6 +9,7 @@ Welcome to Python 101! Python is a programming language used across many fields 
   - Variables & Types
   - Operations
   - Lists
+  - Conditions and If statements
   - Functions
 - Continued pair programming.
 
@@ -71,3 +72,42 @@ Add `item_one` and `item_two` assigning them to the variable `total_spent`.
 Next, subtract the remaining `total_spent` from `weekly_budget` and assign it to a variable called `remaining_budget`.
 
 Print `remaining_budget` to your console.
+
+### ✨ Ticket 3 - Shopping List ✨
+
+### Ticket 3a
+
+You realise you forgot your shopping list at home! In order to not forget anything, create a list called `shopping_list` with 5 new items, each one being a **string**.
+
+Print `shopping_list` to your console.
+
+### Ticket 3b
+
+Your mum just called you to tell you to add pineapple to the list. Using one of python's built in methods, add pineapple to `shopping_list`.
+
+Print `shopping_list` to your console. You should now see pineapple added to the end of your list.
+
+### ✨ Ticket 4 - Tracking Items ✨
+
+As the basket gets fuller we need to create a function to track what we've picked up.
+
+### Ticket 4a
+
+Create a function called `checklist`. Give the function three parameters called `item` and `shopping_list`.
+
+### Ticket 4b
+
+In function `checklist` write an if...else statement that follows the following conditions:
+
+- Removes the item from `shopping_list` if it is in `shopping_list`. Prints `"Item removed from shopping list"`
+- Otherwise print `"Item is not on shopping list"`
+
+### Ticket 4c
+
+To run the function you must:
+
+- Call the function `checklist`
+
+To see your updated shopping list:
+
+- Print `shopping_list`.
